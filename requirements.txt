@@ -1,0 +1,17 @@
+# Langchain Core
+langchain
+langchain-core
+
+# Langchain Openai
+langchain-openai
+
+# Text Splitting
+langchain-text-splitters
+
+# Semantic Chunking
+langchain-experimental
+
+# PDF Loadin
+pypdf
+
+
